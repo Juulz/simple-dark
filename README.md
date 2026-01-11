@@ -1,4 +1,4 @@
-# miami-beach
+# Miami Beach
 Actual Budget theme in tropical colors
 
 
