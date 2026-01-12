@@ -1,10 +1,10 @@
 /* Miami Beach - tropical theme for Actual Budget */
 :root {
 --color-tableBackground: #c5ece4;
---color-tableBorder: white;
---color-checkboxText: white;
---color-checkboxToggleBackground: white;
---color-checkboxToggleDisabled: white;
+--color-tableBorder: #ffffff;
+--color-checkboxText: #ffffff;
+--color-checkboxToggleBackground: #ffffff;
+--color-checkboxToggleDisabled: #ffffff;
 --color-tableRowBackgroundHover: #e0b8dc;
 --color-pageBackground: #d095ca;
 --color-pillBackground: #f5f2ef;
@@ -49,7 +49,7 @@
 --color-pageBackgroundModalActive: #bcccdc;
 --color-pageBackgroundTopLeft: #e8ecf0;
 --color-pageBackgroundBottomRight: #b3d9ff;
---color-pageBackgroundLineTop: white;
+--color-pageBackgroundLineTop: #ffffff;
 --color-pageBackgroundLineMid: #e8ecf0;
 --color-pageBackgroundLineBottom: #b3d9ff;
 --color-pageText: #272630;
@@ -58,14 +58,14 @@
 --color-pageTextLink: #1980D4;
 --color-pageTextLinkLight: #66B5FA;
 
---color-cardBackground: white;
+--color-cardBackground: #ffffff;
 --color-cardBorder: #690CB0;
 
 --color-tableText: #272630;
 --color-tableTextLight: #829AB1;
 --color-tableTextHover: #102A43;
 --color-tableHeaderText: #486581;
---color-tableHeaderBackground: white;
+--color-tableHeaderBackground: #ffffff;
 --color-tableBorderSelected: #8719E0;
 --color-tableBorderHover: #9446ED;
 --color-tableBorderSeparator: #829AB1;
@@ -77,7 +77,7 @@
 --color-sidebarItemBackgroundFailed: #F86A6A;
 --color-sidebarItemText: #D9E2EC;
 
---color-menuBackground: white;
+--color-menuBackground: #ffffff;
 --color-menuItemBackground: #F7FAFC;
 --color-menuItemBackgroundHover: #e8ecf0;
 --color-menuItemText: #102A43;
@@ -89,13 +89,13 @@
 --color-menuKeybindingText: #829AB1;
 --color-menuAutoCompleteBackground: #102A43;
 --color-menuAutoCompleteBackgroundHover: #486581;
---color-menuAutoCompleteText: white;
+--color-menuAutoCompleteText: #ffffff;
 --color-menuAutoCompleteTextHover: #C6F7E2;
 --color-menuAutoCompleteTextHeader: #FFF7C4;
---color-menuAutoCompleteItemTextHover: white;
---color-menuAutoCompleteItemText: white;
+--color-menuAutoCompleteItemTextHover: #ffffff;
+--color-menuAutoCompleteItemText: #ffffff;
 
---color-modalBorder: white;
+--color-modalBorder: #ffffff;
 --color-mobileHeaderBackground: #9446ED;
 --color-mobileHeaderText: #F7FAFC;
 --color-mobileHeaderTextSubdued: #bdc5cf;
@@ -125,13 +125,13 @@
 --color-buttonMenuSelectedBackgroundHover: #F5E35D;
 --color-buttonMenuSelectedBorder: #FCF088;
 
---color-buttonPrimaryText: white;
---color-buttonPrimaryTextHover: white;
+--color-buttonPrimaryText: #ffffff;
+--color-buttonPrimaryTextHover: #ffffff;
 --color-buttonPrimaryBackground: #8719E0;
 --color-buttonPrimaryBackgroundHover: #A368FC;
 --color-buttonPrimaryBorder: #8719E0;
 --color-buttonPrimaryShadow: rgba(0, 0, 0, 0.3);
---color-buttonPrimaryDisabledText: white;
+--color-buttonPrimaryDisabledText: #ffffff;
 --color-buttonPrimaryDisabledBackground: #9fb3c8;
 --color-buttonPrimaryDisabledBorder: #9fb3c8;
 
@@ -139,10 +139,10 @@
 --color-buttonNormalTextHover: #102A43;
 --color-buttonNormalBorder: #D9E2EC;
 --color-buttonNormalShadow: rgba(0, 0, 0, 0.2);
---color-buttonNormalSelectedText: white;
+--color-buttonNormalSelectedText: #ffffff;
 --color-buttonNormalSelectedBackground: #1980D4;
 --color-buttonNormalDisabledText: #9fb3c8;
---color-buttonNormalDisabledBackground: white;
+--color-buttonNormalDisabledBackground: #ffffff;
 --color-buttonNormalDisabledBorder: #D9E2EC;
 
 --color-calendarText: #F7FAFC;
@@ -177,7 +177,7 @@
 --color-formLabelText: #1980D4;
 --color-formLabelBackground: #8BCAFD;
 --color-formInputBackground: #F7FAFC;
---color-formInputBackgroundSelected: white;
+--color-formInputBackgroundSelected: #ffffff;
 --color-formInputBackgroundSelection: #8719E0;
 --color-formInputTextReadOnlySelection: #F7FAFC;
 --color-formInputBorderSelected: #8719E0;
@@ -212,14 +212,14 @@
 --color-noteTagBackground: #e4d4ff;
 --color-noteTagBackgroundHover: #DAC4FF;
 --color-noteTagDefault: #e4d4ff;
---color-noteTagText: black;
+--color-noteTagText: #000000;
 
 --color-floatingActionBarBackground: #9446ED;
 --color-floatingActionBarBorder: #9446ED;
 --color-floatingActionBarText: #F7FAFC;
 
 --color-tooltipText: #102A43;
---color-tooltipBackground: white;
+--color-tooltipBackground: #ffffff;
 --color-tooltipBorder: #D9E2EC;
 
 --color-calendarCellBackground: #e8ecf0;
