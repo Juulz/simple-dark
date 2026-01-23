@@ -229,4 +229,20 @@
 --color-mobileAccountText: #14aeeb;
 --color-mobileTransactionSelected: #edbe5e;
 
+--color-numberPositive = #2ecd65;
+--color-numberNegative = #f86a6a;
+--color-numberNeutral = #627d98;
+--color-budgetNumberNegative = #f86a6a; /* numberNegative; */
+--color-budgetNumberZero = #627d98; /* tableTextSubdued; */
+--color-budgetNumberNeutral = #d9e2ec; /* pageText; */
+--color-budgetNumberPositive = #2ecd65; /* budgetNumberNeutral; */
+--color-templateNumberFunded = #2ecd65; /* numberPositive; */
+--color-templateNumberUnderFunded = #f5e35d;
+
+--color-reportsNumberNegative = #f86a6a; /* reportsRed; */
+--color-reportsNumberNeutral = #d9e2ec; /* pageText; */
+--color-reportsNumberPositive = #3ebd93; /* reportsGreen; */
+
+  
+
 }
