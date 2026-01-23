@@ -26,7 +26,7 @@
 --color-tableRowBackgroundHover: #222222;
 --color-tableText: #14aeeb;
 --color-tableHeaderText: #9fb3c8;
---color-tableHeaderBackground: #434343;
+--color-tableHeaderBackground: #363636;
 --color-tableBorder: #222222;
 --color-tableRowHeaderBackground: #333333;
 --color-tableRowHeaderText: #d9e2ec;
@@ -142,7 +142,7 @@
 
 --color-noticeBackgroundDark: #27ab83;
 --color-noticeTextLight: #2ecd65;
---color-noticeTextMenu: #27ab83;
+--color-noticeTextMenu: #2ecd65;
 --color-noticeBorder: #0c6b58;
 --color-warningTextLight: #e6bb20;
 --color-warningBorder: #e6bb20;
@@ -241,8 +241,10 @@
 
 --color-reportsNumberNegative: #f86a6a; /* reportsRed; */
 --color-reportsNumberNeutral: #d9e2ec; /* pageText; */
---color-reportsNumberPositive: #3ebd93; /* reportsGreen; */
+--color-reportsNumberPositive: #108bbc; /* reportsGreen; */
 
-  
+--color-toBudgetPositive: #2ecd65;
+--color-toBudgetNegative: #f86a6a;
+--color-toBudgetZero: #2ecd65;
 
 }
