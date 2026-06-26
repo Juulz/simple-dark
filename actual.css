@@ -52,8 +52,10 @@
 --color-sidebarItemBackgroundHover: #3e3e3e;
 --color-sidebarItemText: #d9e2ec;
 --color-sidebarItemTextSelected: #edbe5e;
---color-sidebarBudgetName: #d9e2ec;
-  
+--color-sidebarBudgetName: #ffb61a;
+--color-tableTextItemAdded: #ffb61a;
+--color-sidebarItemTextUpdated: #ffb61a;
+
 --color-menuBackground: #243b53;
 --color-menuItemBackground: #243b53;
 --color-menuItemBackgroundHover: #627d98;
